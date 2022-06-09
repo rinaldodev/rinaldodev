@@ -4,7 +4,7 @@ Olá 👋, sou Rinaldo, um Software Engineer no Brasil. 🇧🇷
 
 ▶️ No [meu canal do YouTube RinaldoDev](https://www.youtube.com/RinaldoDev) disponibilizo vários cursos gratuitos e com material Open Source:
 
-- [Curso Introdução ao Git](https://www.youtube.com/playlist?list=PLuYctAHjg89bR5PgaAlyGCl2PWMPDMzFN)
+- [Curso Introdução ao Git e GitHub](https://www.youtube.com/playlist?list=PLuYctAHjg89bR5PgaAlyGCl2PWMPDMzFN)
 - [Curso Primeiros passos com Quarkus](https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy)
 - [Curso Padrões de Projeto com Java](https://www.youtube.com/playlist?list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
 - [Curso Panorama Java 9 à 11](https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy)
