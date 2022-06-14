@@ -1,4 +1,4 @@
-Olá 👋, sou Rinaldo, um Software Engineer no Brasil. 🇧🇷
+Olá 👋, sou Rinaldo, um Software Engineer no Brasil 🇧🇷, com mais de 10 anos de experiência em desenvolvimento de software, trabalhando atualmente na Red Hat.
 
 ------------
 
