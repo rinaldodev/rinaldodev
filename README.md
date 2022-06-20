@@ -1,41 +1,25 @@
-Olá 👋, sou Rinaldo, um Software Engineer no Brasil 🇧🇷, com mais de 10 anos de experiência em desenvolvimento de software, trabalhando atualmente na Red Hat.
+Hi 👋, I'm Rinaldo, a Software Engineer from Brazil 🇧🇷, working for over 10 years with software development, currently at Red Hat.
+
+I'm mostly known for helping other developers on [my YouTube channel](https://www.youtube.com/RinaldoDev) by providing multiple free courses with open source material. Channel content is currently portuguese only.
+
+You can find me on [LinkedIn](https://linkedin.com/in/rinaldodev), [Twitter](https://twitter.com/rinaldodev), or [personal website](https://rinaldo.dev).
+
+If you want to, you can support my free educational work by being a [sponsor here on GitHub](https://github.com/sponsors/rinaldodev).
 
 ------------
 
-▶️ Ajudo outros devs no [meu canal do YouTube RinaldoDev](https://www.youtube.com/RinaldoDev) com vários cursos gratuitos e com material Open Source:
+Olá 👋, sou Rinaldo, um Software Engineer do Brasil 🇧🇷, com mais de 10 anos de experiência em desenvolvimento de software, trabalhando atualmente na Red Hat.
 
-- [Introdução ao Git e GitHub](https://www.youtube.com/playlist?list=PLuYctAHjg89bR5PgaAlyGCl2PWMPDMzFN)
-- [Primeiros passos com Quarkus](https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy)
-- [Padrões de Projeto com Java](https://www.youtube.com/playlist?list=PLuYctAHjg89bBeh25plGraaYiAsryusw6)
-- [Panorama Java 9 à 11](https://www.youtube.com/playlist?list=PLuYctAHjg89Y4RZ3UIgAOWow4yc_rgpKy)
-- [Multithread, Paralelismo e Concorrência com Java](https://www.youtube.com/playlist?list=PLuYctAHjg89YNXAXhgUt6ogMyPphlTVQG)
-- [Nova API de Data e Hora do Java 8](https://www.youtube.com/playlist?list=PLuYctAHjg89Z6BDg319ADULCmIQJ2y0yE)
-- [Lambda, Streams e Optional do Java 8](https://www.youtube.com/playlist?list=PLuYctAHjg89ZkhgOQo0zcTtmHY5nuRYud)
+Sou conhecido principalmente por ajudar outros devs no [meu canal do YouTube](https://www.youtube.com/RinaldoDev), fornecendo vários cursos gratuitos com material open source. Todo o conteúdo é em português.
 
-E a lista está sempre crescendo. 😁
+Você pode me encontrar no [LinkedIn](https://linkedin.com/in/rinaldodev), [Twitter](https://twitter.com/rinaldodev), ou [site pessoal](https://rinaldo.dev).
 
-Os repositórios que você vê aqui no GitHub são geralmente materiais abertos e gratuitos desses cursos.
+Se você quiser, pode apoiar meu trabalho educacional gratuito [sendo um membro do canal no YouTube](https://www.youtube.com/channel/UCyRDiqqSkqGvTE_wIB1nN1w/join/join), ou sendo um [sponsor aqui no GitHub](https://github.com/sponsors/rinaldodev).
 
 ------------
 
-⭐ Você pode apoiar meu trabalho educacional gratuito:
-- [sendo um membro no YouTube](https://www.youtube.com/channel/UCyRDiqqSkqGvTE_wIB1nN1w/join/join)
-- [com Sponsorship aqui no GitHub](https://github.com/sponsors/rinaldodev)
+<p><img src="https://github-readme-stats.vercel.app/api?theme=dark&username=rinaldodev&show_icons=true" alt="rinaldodev" /></p>
 
-------------
-
-🔗 Me encontre em:
-- https://www.youtube.com/rinaldodev
-- https://twitter.com/rinaldodev
-- https://linkedin.com/in/rinaldodev
-- https://rinaldo.dev
-
-------------
-
-📊 Stats legais:
-
-<p><img src="https://github-readme-stats.vercel.app/api?theme=dark&username=rinaldodev&show_icons=true&locale=pt-BR" alt="rinaldodev" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?theme=dark&username=rinaldodev&show_icons=true&locale=pt-BR&layout=compact" alt="rinaldodev" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?theme=dark&username=rinaldodev&show_icons=true&layout=compact" alt="rinaldodev" /></p>
 
 
