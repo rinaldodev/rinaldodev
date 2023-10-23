@@ -5,12 +5,12 @@ Over 13 years working with software development.
 Content Creator, Published author, Speaker.
 
 🔗 Find me at:
-Twitter: https://twitter.com/rinaldodev
-Instagram: https://www.instagram.com/rinaldodev/
-LinkedIn: https://www.linkedin.com/in/rinaldodev/
-Site: https://rinaldo.dev
-GitHub: https://github.com/rinaldodev
-Twitch: https://www.twitch.tv/rinaldodev
+- Twitter: https://twitter.com/rinaldodev
+- Instagram: https://www.instagram.com/rinaldodev/
+- LinkedIn: https://www.linkedin.com/in/rinaldodev/
+- Site: https://rinaldo.dev
+- GitHub: https://github.com/rinaldodev
+- Twitch: https://www.twitch.tv/rinaldodev
 
 ------
 
@@ -21,12 +21,12 @@ Há mais de 13 anos trabalhando com desenvolvimento de software.
 Criador de Conteúdo, Autor publicado, Palestrante.
 
 🔗 Me encontre em:
-Twitter: https://twitter.com/rinaldodev
-Instagram: https://www.instagram.com/rinaldodev/
-LinkedIn: https://www.linkedin.com/in/rinaldodev/
-Site: https://rinaldo.dev
-GitHub: https://github.com/rinaldodev
-Twitch: https://www.twitch.tv/rinaldodev
+- Twitter: https://twitter.com/rinaldodev
+- Instagram: https://www.instagram.com/rinaldodev/
+- LinkedIn: https://www.linkedin.com/in/rinaldodev/
+- Site: https://rinaldo.dev
+- GitHub: https://github.com/rinaldodev
+- Twitch: https://www.twitch.tv/rinaldodev
 
 ------------
 
