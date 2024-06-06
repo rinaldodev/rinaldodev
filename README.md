@@ -5,6 +5,7 @@ Over 13 years working with software development.
 Content Creator, Published author, Speaker.
 
 🔗 Find me at:
+- YouTube: https://youtube.com/rinaldodev
 - LinkedIn: https://www.linkedin.com/in/rinaldodev/
 - GitHub: https://github.com/rinaldodev
 - Site: https://rinaldo.dev
@@ -19,6 +20,7 @@ Há mais de 13 anos trabalhando com desenvolvimento de software.
 Criador de Conteúdo, Autor publicado, Palestrante.
 
 🔗 Me encontre em:
+- YouTube: https://youtube.com/rinaldodev
 - LinkedIn: https://www.linkedin.com/in/rinaldodev/
 - GitHub: https://github.com/rinaldodev
 - Site: https://rinaldo.dev
